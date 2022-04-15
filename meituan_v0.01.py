@@ -19,7 +19,7 @@ def conn_phone(id):
 
 def start():
     # 此处需要设置为你的手机的序列号
-    id = "415cd4ea"
+    id = "579e639b"
     d = conn_phone(id)
     hierarchy_str = ""
     recv_time_list = []
